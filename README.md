@@ -37,6 +37,21 @@ This repository contains TypeScript exercises with multiple classes and interact
 - The `Movie` class represents individual movies with properties such as title, duration, and director.
 - The `MovieCatalog` class allows you to manage a catalog of movies, including searching by title and filtering by director.
 
+## 8. Book Class
+
+- The `Book` class represents books with properties like title, author, and number of pages.
+- You can create `Book` objects and display information about them.
+
+## 9. Fruit Class
+
+- The `Fruit` class represents fruits with properties like name, color, and flavor.
+- You can create `Fruit` objects and get information about them.
+
+## 10. Task Class
+
+- The `Task` class represents tasks with properties like description and completion status.
+- You can create `Task` objects and mark them as completed or pending.
+
 ## How to Run
 
 1. Clone this repository to your local machine:
